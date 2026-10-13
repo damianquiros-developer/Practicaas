@@ -1,0 +1,8 @@
+target/
+nbproject/private/
+nbactions.xml
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
